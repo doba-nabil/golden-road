@@ -12,7 +12,8 @@
     <meta property="og:description" content="المسار الذهبي افضل مؤسسة لتجارة الحلويات والقهوة"/>
     <meta property="og:url" content="https://7loll.net/"/>
     <meta property="og:site_name" content="مؤسسة المسار الذهبي"/>
-    <title>تسجيل الدخول</title>
+    <title>دفع الكتروني</title>
+
     <!-- style -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap.rtl.min.css" rel="stylesheet">
@@ -31,9 +32,10 @@
     <link href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap5.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <!--if lang == en-->
-    <link href="css/style-en.css" rel="stylesheet">
+    <!--<link href="css/style-en.css" rel="stylesheet">-->
     <!---->
     <link href="css/responsive.css" rel="stylesheet">
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -1328,40 +1330,81 @@
     </div>
 </section>
 <!-- end header section -->
+<!-- start verify section -->
 <section class="page-head">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="page-head-con">
-                    <ul class="d-inline-block">
-                        <li class="d-inline-block">
+                    <ul>
+                        <li>
                             <a href="index.html">الرئيسية</a>
                         </li>
-                        <li class="d-inline-block">/</li>
-                        <li class="d-inline-block">تسجيل الدخول</li>
+                        <li>/</li>
+                        <li>الدفع الاكتروني</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="login-section">
-    <div class="card">
-        <form>
-        <h2 class="title">تسجيل الدخول</h2>
-        <p class="subtitle">لا تملك عضوية ؟ <a href="#"> تسجيل جديد</a></p>
-
-        <div class="email-login">
-            <label for="email"> <b>البريد</b></label>
-            <input type="text" id="email" placeholder="البريد" name="uname" required>
-            <label for="password"><b>الرقم السري</b></label>
-            <input type="password" id="password" placeholder="الرقم السري" name="psw" required>
+<section class="elc-payment">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-12 col-md-8">
+                <div id="Checkout" class="inline">
+                    <h1>فاتورة الدفع</h1>
+                    <div class="card-row">
+                        <span class="visa"></span>
+                        <span class="mastercard"></span>
+                        <span class="amex"></span>
+                        <span class="discover"></span>
+                    </div>
+                    <form>
+                        <div style="display: flex;justify-content: space-between;" class="form-group">
+                            <label>قيمة الدفع</label>
+                            <div style="display: inline-block" class="amount-placeholder">
+                                <span>SAR</span>
+                                <span>500.00</span>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="form-group">
+                            <label or="NameOnCard">الاسم على البطاقة</label>
+                            <input id="NameOnCard" class="form-control" type="text" maxlength="255">
+                        </div>
+                        <div class="form-group">
+                            <label for="CreditCardNumber">رقم البطاقة</label>
+                            <input id="CreditCardNumber" class="null card-image form-control" type="text">
+                        </div>
+                        <div class="expiry-date-group form-group">
+                            <label for="ExpiryDate">تاريخ الانتهاء</label>
+                            <input id="ExpiryDate" class="form-control" type="text" placeholder="MM / YY" maxlength="7">
+                        </div>
+                        <div class="security-code-group form-group">
+                            <label for="SecurityCode">CVV Code</label>
+                            <div class="input-container" >
+                                <input id="SecurityCode" class="form-control" type="text" >
+                                <i id="cvc" class="fa fa-question-circle"></i>
+                            </div>
+                            <div class="cvc-preview-container two-card hide">
+                                <div class="amex-cvc-preview"></div>
+                                <div class="visa-mc-dis-cvc-preview"></div>
+                            </div>
+                        </div>
+                       <div class="card-button">
+                           <button style="width: 100%" id="PayButton" class="btn btn-block btn-success submit-button" type="submit">
+                               <span class="align-middle">دفع  SAR 500.00</span>
+                           </button>
+                       </div>
+                    </form>
+                </div>
+            </div>
         </div>
-        <button class="cta-btn">تسجيل الدخول</button>
-        <a class="forget-pass" href="#">هل نسيت كلمة المرور ؟</a>
-        </form>
     </div>
 </section>
+<!-- end virfy section -->
 <!-- start footer section -->
 <footer class="site-footer">
     <div class="container">
@@ -1372,7 +1415,7 @@
                         <img src="imgs/Logo.svg" alt="footer logo">
                     </a>
                     <p class="text-justify">
-                        الرياض, 4105 إبراهيم بن باز ، السلي الرياض 4222
+                        الرياض, 4105 إبراهيم بن باز ، السليالرياض 4222
                     </p>
                     <p style="direction: ltr" class="text-justify">
                         +966-5-55493303
@@ -1466,9 +1509,9 @@
 <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap5.min.js"></script>
 <!--if lang == en-->
-<script src="js/main-en.js"></script>
+<!--<script src="js/main-en.js"></script>-->
 <!--if lang == ar-->
-<!--<script src="js/main.js"></script>-->
+<script src="js/main.js"></script>
 <!---->
 </body>
 </html>

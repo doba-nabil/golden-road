@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afce1a10-a1f7-4535-9389-75c79adf46ff" name="Default" comment="" />
+    <list default="true" id="afce1a10-a1f7-4535-9389-75c79adf46ff" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/failed_payment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payment2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/successfully_payment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_product.html" beforeDir="false" afterPath="$PROJECT_DIR$/add_product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/category-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comparison-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/comparison-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/add_product.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/add_product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/category-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/category-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/comparison-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/comparison-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/en/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/js/main-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/en/js/main-en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/en/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/purshases.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/purshases.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/single-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/single-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/suppliers.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/suppliers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/wishlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main-en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/purshases.html" beforeDir="false" afterPath="$PROJECT_DIR$/purshases.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suppliers.html" beforeDir="false" afterPath="$PROJECT_DIR$/suppliers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/wishlist.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,44 +67,128 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="profile.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/en/profile.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/en/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34017">
-              <caret line="1521" column="7" selection-start-line="1521" selection-start-column="7" selection-end-line="1521" selection-end-column="7" />
+            <state relative-caret-position="272">
+              <caret line="1499" column="20" lean-forward="true" selection-start-line="1499" selection-start-column="20" selection-end-line="1499" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/en/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret column="28504" selection-start-column="28504" selection-end-column="28504" />
+              <folding>
+                <element signature="e#21654#23153#1" expanded="true" />
+                <element signature="e#57432#59327#1" expanded="true" />
+                <element signature="e#59363#60610#1" expanded="true" />
+                <element signature="e#60652#62199#1" expanded="true" />
+                <element signature="e#62239#63718#1" expanded="true" />
+                <element signature="e#66251#73902#1" expanded="true" />
+                <element signature="e#73984#75559#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret column="28504" selection-start-column="28504" selection-end-column="28504" />
+              <folding>
+                <element signature="e#21654#23153#1" expanded="true" />
+                <element signature="e#57432#59327#1" expanded="true" />
+                <element signature="e#59363#60610#1" expanded="true" />
+                <element signature="e#60652#62199#1" expanded="true" />
+                <element signature="e#62239#63718#1" expanded="true" />
+                <element signature="e#66251#73902#1" expanded="true" />
+                <element signature="e#73984#75559#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>border-radius</find>
+      <find>.header .logo img</find>
+      <find>form-group</find>
+      <find>profil</find>
+      <find>.elc-payment</find>
+      <find>amount-placeholder</find>
+      <find>PayButton</find>
+      <find>Checkout</find>
+      <find>input-container</find>
+      <find>card-row</find>
+      <find>card-image</find>
+      <find>align-middle</find>
+      <find>input</find>
+      <find>select</find>
+      <find>ltr</find>
+      <find>.register-section input[type=number]</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.bank-payment</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="C:/My Web Sites/laravel/martfury.botble.com/compare/2.html" />
+        <option value="$PROJECT_DIR$/payment1.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/main-en.js" />
+        <option value="$PROJECT_DIR$/about-us.html" />
+        <option value="$PROJECT_DIR$/add_product.html" />
+        <option value="$PROJECT_DIR$/cart.html" />
+        <option value="$PROJECT_DIR$/category-single.html" />
+        <option value="$PROJECT_DIR$/comparison-page.html" />
+        <option value="$PROJECT_DIR$/contact-us.html" />
+        <option value="$PROJECT_DIR$/failed_payment.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/profile.html" />
+        <option value="$PROJECT_DIR$/purshases.html" />
+        <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/services.html" />
+        <option value="$PROJECT_DIR$/single-product.html" />
+        <option value="$PROJECT_DIR$/successfully_payment.html" />
+        <option value="$PROJECT_DIR$/suppliers.html" />
+        <option value="$PROJECT_DIR$/verify.html" />
+        <option value="$PROJECT_DIR$/wishlist.html" />
+        <option value="$PROJECT_DIR$/payment2.html" />
         <option value="$PROJECT_DIR$/en/about-us.html" />
         <option value="$PROJECT_DIR$/en/add_product.html" />
         <option value="$PROJECT_DIR$/en/cart.html" />
         <option value="$PROJECT_DIR$/en/category-single.html" />
         <option value="$PROJECT_DIR$/en/comparison-page.html" />
         <option value="$PROJECT_DIR$/en/contact-us.html" />
+        <option value="$PROJECT_DIR$/en/failed_payment.html" />
         <option value="$PROJECT_DIR$/en/index.html" />
         <option value="$PROJECT_DIR$/en/login.html" />
+        <option value="$PROJECT_DIR$/en/payment1.html" />
+        <option value="$PROJECT_DIR$/en/payment2.html" />
         <option value="$PROJECT_DIR$/en/profile.html" />
         <option value="$PROJECT_DIR$/en/purshases.html" />
         <option value="$PROJECT_DIR$/en/register.html" />
         <option value="$PROJECT_DIR$/en/services.html" />
         <option value="$PROJECT_DIR$/en/single-product.html" />
+        <option value="$PROJECT_DIR$/en/successfully_payment.html" />
         <option value="$PROJECT_DIR$/en/suppliers.html" />
+        <option value="$PROJECT_DIR$/en/verify.html" />
         <option value="$PROJECT_DIR$/en/wishlist.html" />
-        <option value="$PROJECT_DIR$/wishlist.html" />
-        <option value="$PROJECT_DIR$/suppliers.html" />
-        <option value="$PROJECT_DIR$/single-product.html" />
-        <option value="$PROJECT_DIR$/services.html" />
-        <option value="$PROJECT_DIR$/register.html" />
-        <option value="$PROJECT_DIR$/purshases.html" />
-        <option value="$PROJECT_DIR$/login.html" />
-        <option value="$PROJECT_DIR$/profile.html" />
+        <option value="$PROJECT_DIR$/en/css/style.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -74,12 +201,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -93,11 +221,6 @@
               <item name="custom golden-road" type="b2602c69:ProjectViewProjectNode" />
               <item name="custom golden-road" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="custom golden-road" type="b2602c69:ProjectViewProjectNode" />
-              <item name="custom golden-road" type="462c0819:PsiDirectoryNode" />
-              <item name="en" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -110,6 +233,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\html\custom golden-road" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,36 +261,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622856082860</updated>
-      <workItem from="1622856084566" duration="886000" />
+      <workItem from="1622856084566" duration="1209000" />
+      <workItem from="1622906235901" duration="24000" />
+      <workItem from="1623016472970" duration="10216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="886000" />
+    <option name="totallyTimeSpent" value="11449000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" weight="0.32980332" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32994923" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,189 +301,394 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/en/about-us.html">
+    <entry file="file://$PROJECT_DIR$/en/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33727">
-          <caret line="1489" column="27" lean-forward="true" selection-start-line="1489" selection-start-column="27" selection-end-line="1489" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/add_product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35650">
-          <caret line="1550" column="7" selection-start-line="1550" selection-start-column="7" selection-end-line="1550" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35351">
-          <caret line="1537" column="7" selection-start-line="1537" selection-start-column="7" selection-end-line="1537" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/category-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40112">
-          <caret line="1744" column="7" selection-start-line="1744" selection-start-column="7" selection-end-line="1744" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/comparison-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36984">
-          <caret line="1608" column="7" selection-start-line="1608" selection-start-column="7" selection-end-line="1608" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/wishlist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39399">
-          <caret line="1743" column="20" lean-forward="true" selection-start-line="1743" selection-start-column="20" selection-end-line="1743" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/suppliers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="1708" column="7" selection-start-line="1708" selection-start-column="7" selection-end-line="1708" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/single-product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49622">
-          <caret line="2188" column="7" selection-start-line="2188" selection-start-column="7" selection-end-line="2188" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41572">
-          <caret line="1831" column="7" selection-start-line="1831" selection-start-column="7" selection-end-line="1831" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33971">
-          <caret line="1498" column="7" selection-start-line="1498" selection-start-column="7" selection-end-line="1498" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/purshases.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37421">
-          <caret line="1645" column="7" selection-start-line="1645" selection-start-column="7" selection-end-line="1645" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33327">
-          <caret line="1467" column="7" selection-start-line="1467" selection-start-column="7" selection-end-line="1467" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49565">
-          <caret line="2173" column="7" selection-start-line="2173" selection-start-column="7" selection-end-line="2173" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/contact-us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34592">
-          <caret line="1534" column="7" selection-start-line="1534" selection-start-column="7" selection-end-line="1534" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about-us.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add_product.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cart.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/category-single.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comparison-page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishlist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/suppliers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/single-product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="1482" column="45" lean-forward="true" selection-start-line="1482" selection-start-column="45" selection-end-line="1482" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/purshases.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32618">
-          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49652" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact-us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34941" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        <state relative-caret-position="34983">
+          <caret line="1521" column="7" selection-start-line="1521" selection-start-column="7" selection-end-line="1521" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/en/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34017">
+        <state relative-caret-position="34983">
           <caret line="1521" column="7" selection-start-line="1521" selection-start-column="7" selection-end-line="1521" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/My Web Sites/laravel/martfury.botble.com/compare/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="869" column="6" lean-forward="true" selection-start-line="856" selection-end-line="869" selection-end-column="6" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#header#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-en.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9263" selection-start-column="9263" selection-end-column="9263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main-en.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8883" selection-start-column="8883" selection-end-column="8883" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="114" column="41" lean-forward="true" selection-start-line="111" selection-start-column="35" selection-end-line="114" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1472">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparison-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="117" column="41" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/failed_payment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="115" column="41" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="113" column="41" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="115" column="41" lean-forward="true" selection-start-line="112" selection-start-column="36" selection-end-line="115" selection-end-column="41" />
+          <folding>
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/purshases.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="113" column="41" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="113" column="41" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="113" column="41" selection-start-line="113" selection-start-column="41" selection-end-line="113" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/successfully_payment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="115" column="41" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suppliers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="117" column="41" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verify.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="115" column="41" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="115" column="41" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1196">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="1363" column="67" selection-start-line="1363" selection-start-column="67" selection-end-line="1363" selection-end-column="67" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="1496" selection-start-line="1496" selection-end-line="1496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/add_product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1495">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/category-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/comparison-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/failed_payment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="1477" selection-start-line="1477" selection-end-line="1477" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/payment1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="1514" selection-start-line="1514" selection-end-line="1514" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/payment2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="1520" selection-start-line="1520" selection-end-line="1520" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1840">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/purshases.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/single-product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/successfully_payment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="1475" selection-start-line="1475" selection-end-line="1475" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/suppliers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/verify.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="1480" selection-start-line="1480" selection-end-line="1480" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/wishlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/js/main-en.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2804" selection-start-column="2801" selection-end-column="2804" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="1499" column="20" lean-forward="true" selection-start-line="1499" selection-start-column="20" selection-end-line="1499" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret column="28504" selection-start-column="28504" selection-end-column="28504" />
+          <folding>
+            <element signature="e#21654#23153#1" expanded="true" />
+            <element signature="e#57432#59327#1" expanded="true" />
+            <element signature="e#59363#60610#1" expanded="true" />
+            <element signature="e#60652#62199#1" expanded="true" />
+            <element signature="e#62239#63718#1" expanded="true" />
+            <element signature="e#66251#73902#1" expanded="true" />
+            <element signature="e#73984#75559#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret column="28504" selection-start-column="28504" selection-end-column="28504" />
+          <folding>
+            <element signature="e#21654#23153#1" expanded="true" />
+            <element signature="e#57432#59327#1" expanded="true" />
+            <element signature="e#59363#60610#1" expanded="true" />
+            <element signature="e#60652#62199#1" expanded="true" />
+            <element signature="e#62239#63718#1" expanded="true" />
+            <element signature="e#66251#73902#1" expanded="true" />
+            <element signature="e#73984#75559#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

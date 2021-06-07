@@ -24,9 +24,9 @@
     <link href="css/hover-min.css" rel="stylesheet">
     <link href="css/owl.carousel.min.css" rel="stylesheet">
     <link href="css/owl.theme.default.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/star-rating.min.css" />
+    <link rel="stylesheet" href="css/star-rating.min.css"/>
     <link rel="stylesheet" href="css/lightgallery.min.css"/>
-    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet"/>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
     <link href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap5.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -108,6 +108,10 @@
                                     <span>حسابي</span>
                                 </a>
                                 <ul class="profile-menu dropdown-menu" aria-labelledby="profile">
+                                    <li class="credit_list">
+                                        <b>رصيدي : </b>
+                                        <p>300 SAR</p>
+                                    </li>
                                     <li><a class="dropdown-item" href="#">الطلبات</a></li>
                                     <li><a class="dropdown-item" href="#">قائمة المقارنة</a></li>
                                     <li><a class="dropdown-item" href="#">قائمة الأمنيات</a></li>
@@ -1334,7 +1338,7 @@
                             <a href="index.html">الرئيسية</a>
                         </li>
                         <li class="d-inline-block">/</li>
-                        <li class="d-inline-block">سلة الشراء </li>
+                        <li class="d-inline-block">سلة الشراء</li>
                     </ul>
                 </div>
             </div>
@@ -1349,13 +1353,6 @@
                     <div class="row">
                         <div class="col-md-8 col-12">
                             <div class="basket">
-                                <div class="basket-module">
-                                    <label for="promo-code">ادخل كود الخصم</label>
-                                    <div class="form-group">
-                                        <input id="promo-code" type="text" name="promo-code" maxlength="5">
-                                        <button class="btn">تنفيذ</button>
-                                    </div>
-                                </div>
                                 <div class="basket-labels">
                                     <ul>
                                         <li class="item item-heading">المنتج</li>
@@ -1407,7 +1404,15 @@
                         <div class="col-md-4 col-12">
                             <aside>
                                 <div class="summary">
-                                    <div class="summary-total-items"><span class="total-items"></span>مجموع المنتجات </div>
+                                    <div class="basket-module">
+                                        <label for="promo-code">ادخل كود الخصم</label>
+                                        <div class="form-group">
+                                            <input id="promo-code" type="text" name="promo-code" maxlength="5">
+                                            <button class="btn">تنفيذ</button>
+                                        </div>
+                                    </div>
+                                    <div class="summary-total-items">مجموع المنتجات : <span class="total-items"></span>
+                                    </div>
                                     <div class="summary-subtotal">
                                         <div class="subtotal-title">سعر الشحن</div>
                                         <div class="subtotal-value final-value">20</div>
@@ -1415,6 +1420,20 @@
                                     <div class="summary-total">
                                         <div class="total-title">السعر الكلي</div>
                                         <div class="total-value final-value" id="basket-total">208.00</div>
+                                    </div>
+                                    <div class="pay-type">
+                                        <label>
+                                            <input type="radio" name="radio" value="1" checked/>
+                                            <span> دفع الكتروني </span>
+                                        </label>
+                                        <label>
+                                            <input type="radio" value="1" name="radio"/>
+                                            <span> تحويل بنكي </span>
+                                        </label>
+                                        <label>
+                                            <input type="radio" value="1" name="radio"/>
+                                            <span> دفع من الرصيد الشخصي </span>
+                                        </label>
                                     </div>
                                     <div class="summary-checkout">
                                         <button class="checkout-cta">اكمل عملية الشراء</button>
@@ -1435,7 +1454,7 @@
             <div class="col-sm-12 col-md-4 ">
                 <div class="footer-info">
                     <a class="footer-logo" href="#">
-                       <img src="imgs/Logo.svg" alt="footer logo">
+                        <img src="imgs/Logo.svg" alt="footer logo">
                     </a>
                     <p class="text-justify">
                         الرياض, 4105 إبراهيم بن باز ، السلي الرياض 4222
